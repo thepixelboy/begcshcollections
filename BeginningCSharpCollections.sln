@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopTenPops", "TopTenPops\TopTenPops.csproj", "{D888D5CF-726F-4449-8544-35ECED88137A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{8BB9796C-9142-4BDE-9445-C713715E4440}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8BB9796C-9142-4BDE-9445-C713715E4440}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8BB9796C-9142-4BDE-9445-C713715E4440}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D888D5CF-726F-4449-8544-35ECED88137A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D888D5CF-726F-4449-8544-35ECED88137A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D888D5CF-726F-4449-8544-35ECED88137A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D888D5CF-726F-4449-8544-35ECED88137A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
