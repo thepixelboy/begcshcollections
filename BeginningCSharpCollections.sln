@@ -17,13 +17,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DaysOfWeekList", "DaysOfWee
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadAllCountries", "ReadAllCountries\ReadAllCountries.csproj", "{8802E8EA-8CC5-4E05-A398-C934F67805DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictSnippets", "DictSnippets\DictSnippets.csproj", "{AE823D5F-5FF6-423A-8884-4C2CA1CF7091}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DictSnippets", "DictSnippets\DictSnippets.csproj", "{AE823D5F-5FF6-423A-8884-4C2CA1CF7091}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAllCountriesDict", "ReadAllCountriesDict\ReadAllCountriesDict.csproj", "{7D161C02-159A-4BCD-B1E6-D71926B3EF41}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadAllCountriesDict", "ReadAllCountriesDict\ReadAllCountriesDict.csproj", "{7D161C02-159A-4BCD-B1E6-D71926B3EF41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadCountriesForLoop", "ReadCountriesForLoop\ReadCountriesForLoop.csproj", "{7C659119-41B0-4642-8998-FA847FFEA735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadCountriesForLoop", "ReadCountriesForLoop\ReadCountriesForLoop.csproj", "{7C659119-41B0-4642-8998-FA847FFEA735}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAllCountriesLINQ", "ReadAllCountriesLINQ\ReadAllCountriesLINQ.csproj", "{4C0B24F8-AF70-492A-9869-024B1F253439}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReadAllCountriesLINQ", "ReadAllCountriesLINQ\ReadAllCountriesLINQ.csproj", "{4C0B24F8-AF70-492A-9869-024B1F253439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountriesByRegion", "CountriesByRegion\CountriesByRegion.csproj", "{7DB609B5-D7D7-4F9C-B970-9F05116CFFD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoughtsCrosses", "NoughtsCrosses\NoughtsCrosses.csproj", "{A34BA247-6C47-4D86-82F0-74C65BFA20B9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +67,14 @@ Global
 		{4C0B24F8-AF70-492A-9869-024B1F253439}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4C0B24F8-AF70-492A-9869-024B1F253439}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4C0B24F8-AF70-492A-9869-024B1F253439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DB609B5-D7D7-4F9C-B970-9F05116CFFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB609B5-D7D7-4F9C-B970-9F05116CFFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB609B5-D7D7-4F9C-B970-9F05116CFFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB609B5-D7D7-4F9C-B970-9F05116CFFD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A34BA247-6C47-4D86-82F0-74C65BFA20B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A34BA247-6C47-4D86-82F0-74C65BFA20B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A34BA247-6C47-4D86-82F0-74C65BFA20B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A34BA247-6C47-4D86-82F0-74C65BFA20B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
