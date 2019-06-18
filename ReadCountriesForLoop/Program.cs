@@ -9,7 +9,7 @@ namespace ReadAllCountriesForLoop
         static void Main(string[] args)
         {
             // Remember to change the path to the CSV file
-            string filePath = Path.Combine(@"C:\Users\ruben\Projects\begcshcollections\ReadAllCountries\", "countrypop-by-largest.csv");
+            string filePath = Path.Combine(@"C:\Users\ruben\Projects\begcshcollections\", "countrypop-by-largest.csv");
             CsvReader reader = new CsvReader(filePath);
 
             List<Country> countries = reader.ReadAllCountries();
